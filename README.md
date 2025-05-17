@@ -5,10 +5,11 @@ I am a fourth-year Computer Science student at VIT Vellore, specializing in full
 ---
 
 ## 🧰 Tech Stack
-- **Frontend**: HTML, CSS, JavaScript, React.js, Tailwind CSS
+- **Frontend**: HTML, CSS, JavaScript, TypeScript, React.js, Tailwind CSS
 - **Backend**: Node.js, Express.js, MongoDB, MySQL
 - **Auth & Security**: JWT, sessions, bcrypt
 - **Tools**: Git, GitHub, Postman, Docker (basics), Figma
+
 
 ---
 
