@@ -43,9 +43,11 @@ A project using CNN to predict rainfall from meteorological data, tested on regi
 
 ---
 
-## 📫 Reach Me
+- ## 📫 Reach Me
 - 📧 Email: raafid122@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/raafidafraaz](https://www.linkedin.com/in/RaafidAfraazG)
+- 🌐 Portfolio: [raafidafraazg.github.io/portfolio](https://raafidafraazg.github.io/portfolio)
+
 
 ---
 
