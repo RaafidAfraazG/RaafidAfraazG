@@ -35,6 +35,7 @@ A project using CNN to predict rainfall from meteorological data, tested on regi
 
 ---
 
+
 ## 🧠 Currently Learning
 - React.js and component-based architecture
 - MongoDB/Mongoose for better database design
