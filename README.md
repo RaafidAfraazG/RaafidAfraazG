@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Raafid Afraaz (@RaafidAfraazG)
+# 👋 Hi, I'm Raafid Afraaz (@RaafidAfraazG) 
 
 I am a fourth-year Computer Science student at VIT Vellore, specializing in full-stack web development and UI/UX designing. My experience spans both frontend and backend technologies, along with practical exposure to machine learning and data-driven applications.
 
