@@ -2,7 +2,7 @@
 
 ### Software Engineer | Backend • Cloud • AI • Systems
 
-I’m an Integrated M.Tech Software Engineering student at **Vellore Institute of Technology**, passionate about building practical software systems across backend development, cloud workflows, AI-powered applications, data engineering, and systems programming.
+I’m an Integrated M.Tech Software Engineering student at **Vellore Institute of Technology**, focused on building practical software systems across backend development, cloud workflows, AI-powered applications, data engineering, and systems programming.
 
 I enjoy working on projects that combine clean architecture, reliable implementation, and real-world problem solving.
 
@@ -15,9 +15,9 @@ I enjoy working on projects that combine clean architecture, reliable implementa
 ## 🚀 About Me
 
 - 🎓 Integrated M.Tech in Software Engineering at VIT
-- 💻 Interested in Software Engineering, Backend Development, Cloud, AI, and Systems
+- 💻 Interested in Software Engineering, Backend Development, Cloud, AI, Data Engineering, and Systems Programming
 - 🛠️ Experienced with Java, Python, C++, JavaScript, Spring Boot, FastAPI, Node.js, and PostgreSQL
-- ☁️ Worked with cloud/data tools like AWS S3, AWS Glue, Kafka, Spark, Airflow, Docker, and GitHub Actions
+- ☁️ Worked with AWS S3, AWS Glue, Kafka, Spark, Airflow, Docker, and GitHub Actions
 - 🧠 Strong foundation in DSA, OOP, DBMS, Operating Systems, Computer Networks, and Software Engineering
 - 🏆 Hackathon winner and finalist with hands-on project-building experience
 
@@ -51,36 +51,6 @@ I enjoy working on projects that combine clean architecture, reliable implementa
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 [AI Workflow Builder](https://github.com/RaafidAfraazG/AI-workflow-builder)
-A no-code AI workflow builder that allows users to connect LLMs, document knowledge, web search, and chat modules into custom AI workflows.
-
-**Tech Stack:** React, FastAPI, PostgreSQL, Redis, ChromaDB, React Flow, LLM, RAG
-
----
-
-### 🔹 [FamCare Healthcare Platform](https://github.com/RaafidAfraazG/FamCare)
-A Java Spring Boot healthcare platform with role-based access for users, doctors, and administrators. It supports appointment workflows, healthcare records, user management, and PostgreSQL-backed storage.
-
-**Tech Stack:** Java, Spring Boot, Thymeleaf, PostgreSQL, Spring Security, Maven
-
----
-
-### 🔹 [End-to-End Data Engineering Pipeline](https://github.com/RaafidAfraazG/End-to-End-Data-Engineering-Pipeline)
-A real-time data engineering pipeline for streaming, processing, and storing analytics-ready data using distributed data tools.
-
-**Tech Stack:** Python, Kafka, Spark, Airflow, Docker, PostgreSQL, Cassandra
-
----
-
-### 🔹 [KeyVault - Concurrent Key-Value Store](https://github.com/RaafidAfraazG/concurrent-kvstore)
-A Redis-like in-memory key-value database built in C++17 with TCP socket communication, multithreaded client handling, mutex-based concurrency control, and append-only persistence.
-
-**Tech Stack:** C++17, TCP Sockets, Multithreading, Mutex, File Persistence
-
----
-
 ## 🏆 Achievements
 
 - 🥇 Winner — BitNBuild’24 Tamil Nadu Regional Round, Google DSC
@@ -91,18 +61,26 @@ A Redis-like in-memory key-value database built in C++17 with TCP socket communi
 - 🤝 Volunteer — ERIDE Digital Literacy Program
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaafidAfraazG&show_icons=true&theme=tokyonight&hide_border=true" alt="Raafid's GitHub Stats" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaafidAfraazG&theme=tokyonight" 
+    alt="GitHub Profile Summary" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaafidAfraazG&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RaafidAfraazG&theme=tokyonight" 
+    alt="Repos Per Language" 
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RaafidAfraazG&theme=tokyonight" 
+    alt="Most Commit Language" 
+  />
 </p>
 
----
 
 ## 📫 Connect With Me
 
