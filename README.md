@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Raafid Afraaz G
 
-### Software Engineer | Backend • Cloud • AI • Systems
+### Software Engineer | Frontend • Backend • AI • Cloud
 
-I’m an Integrated M.Tech Software Engineering student at **Vellore Institute of Technology**, focused on building practical software systems across backend development, cloud workflows, AI-powered applications, data engineering, and systems programming.
+I'm an Integrated M.Tech Software Engineering student at **Vellore Institute of Technology**, focused on building practical software systems across frontend interfaces, backend APIs, cloud workflows, and AI-powered applications.
 
 I enjoy working on projects that combine clean architecture, reliable implementation, and real-world problem solving.
 
@@ -15,8 +15,9 @@ I enjoy working on projects that combine clean architecture, reliable implementa
 ## 🚀 About Me
 
 - 🎓 Integrated M.Tech in Software Engineering at VIT
-- 💻 Interested in Software Engineering, Backend Development, Cloud, AI, Data Engineering, and Systems Programming
-- 🛠️ Experienced with Java, Python, C++, JavaScript, Spring Boot, FastAPI, Node.js, and PostgreSQL
+- 💻 Interested in Frontend Development, Backend Engineering, Cloud Workflows, AI Applications, and Data Engineering
+- 🛠️ Experienced with React, Next.js, TypeScript, Java, Python, C++, Spring Boot, FastAPI, and Node.js
+- 🎨 Building responsive interfaces with React, TypeScript, Tailwind CSS, and modern frontend tooling
 - ☁️ Worked with AWS S3, AWS Glue, Kafka, Spark, Airflow, Docker, and GitHub Actions
 - 🧠 Strong foundation in DSA, OOP, DBMS, Operating Systems, Computer Networks, and Software Engineering
 - 🏆 Hackathon winner and finalist with hands-on project-building experience
@@ -26,12 +27,19 @@ I enjoy working on projects that combine clean architecture, reliable implementa
 ## 🧰 Tech Stack
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-1f2937?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-1f2937?style=for-the-badge&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1f2937?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1f2937?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-1f2937?style=for-the-badge&logo=openjdk)
+![C++](https://img.shields.io/badge/C++-1f2937?style=for-the-badge&logo=cplusplus)
 ![SQL](https://img.shields.io/badge/SQL-1f2937?style=for-the-badge&logo=mysql)
+
+### Frontend
+![React.js](https://img.shields.io/badge/React-1f2937?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-1f2937?style=for-the-badge&logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1f2937?style=for-the-badge&logo=tailwindcss)
+![HTML](https://img.shields.io/badge/HTML-1f2937?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1f2937?style=for-the-badge&logo=css3)
 
 ### Backend & Databases
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-1f2937?style=for-the-badge&logo=springboot)
@@ -49,13 +57,17 @@ I enjoy working on projects that combine clean architecture, reliable implementa
 ![Git](https://img.shields.io/badge/Git-1f2937?style=for-the-badge&logo=git)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1f2937?style=for-the-badge&logo=githubactions)
 
+### Testing & Automation
+![Selenium](https://img.shields.io/badge/Selenium-1f2937?style=for-the-badge&logo=selenium)
+![Playwright](https://img.shields.io/badge/Playwright-1f2937?style=for-the-badge&logo=playwright)
+
 ---
 
 ## 🏆 Achievements
 
-- 🥇 Winner — BitNBuild’24 Tamil Nadu Regional Round, Google DSC
-- 🏁 National Finalist — BitNBuild’24 Hackathon, Mumbai
-- 🧠 Top 3 Finalist — Neural Nexus’24 AI/ML Hackathon
+- 🥇 Winner — BitNBuild'24 Tamil Nadu Regional Round, Google DSC
+- 🏁 National Finalist — BitNBuild'24 Hackathon, Mumbai
+- 🧠 Top 3 Finalist — Neural Nexus'24 AI/ML Hackathon
 - 📜 IBM Skills Network — SQL and Relational Databases 101
 - 🚀 EY Techathon 5.0 — Advanced through Initial Screening Round
 - 🤝 Volunteer — ERIDE Digital Literacy Program
