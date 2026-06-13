@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Raafid Afraaz G
 
-### Software Engineer | Frontend • Backend • AI • Cloud
+### Software Engineer | Frontend • Backend • AI
 
 I'm an Integrated M.Tech Software Engineering student at **Vellore Institute of Technology**, focused on building practical software systems across frontend interfaces, backend APIs, cloud workflows, and AI-powered applications.
 
