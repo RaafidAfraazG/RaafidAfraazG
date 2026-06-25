@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Raafid Afraaz G
+# 👋 Hi, I'm Raafid Afraaz G 
 
 ### Software Engineer | Thinking, Building & Exploring
 
