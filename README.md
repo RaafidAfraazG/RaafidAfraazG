@@ -51,48 +51,48 @@
   <tr>
     <td align="center">
       <a href="https://github.com/RaafidAfraazG/Machine-Orchestrator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaafidAfraazG&repo=Machine-Orchestrator&theme=tokyonight&hide_border=true" alt="MachineOrchestrator" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaafidAfraazG&repo=Machine-Orchestrator&theme=tokyonight&hide_border=true&v=2" alt="MachineOrchestrator" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/RaafidAfraazG/AI-Research-Copilot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaafidAfraazG&repo=AI-Research-Copilot&theme=tokyonight&hide_border=true" alt="AI Research Copilot" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaafidAfraazG&repo=AI-Research-Copilot&theme=tokyonight&hide_border=true&v=2" alt="AI Research Copilot" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/RaafidAfraazG/NodeWatch">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaafidAfraazG&repo=NodeWatch&theme=tokyonight&hide_border=true" alt="NodeWatch" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaafidAfraazG&repo=NodeWatch&theme=tokyonight&hide_border=true&v=2" alt="NodeWatch" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/RaafidAfraazG/Enterprise-Knowledge-Agent">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaafidAfraazG&repo=Enterprise-Knowledge-Agent&theme=tokyonight&hide_border=true" alt="Enterprise Knowledge Agent" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaafidAfraazG&repo=Enterprise-Knowledge-Agent&theme=tokyonight&hide_border=true&v=2" alt="Enterprise Knowledge Agent" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/RaafidAfraazG/StockLock">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaafidAfraazG&repo=StockLock&theme=tokyonight&hide_border=true" alt="StockLock" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaafidAfraazG&repo=StockLock&theme=tokyonight&hide_border=true&v=2" alt="StockLock" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/RaafidAfraazG/Multimodal-Knowledge-Graph-RAG-Agent">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaafidAfraazG&repo=Multimodal-Knowledge-Graph-RAG-Agent&theme=tokyonight&hide_border=true" alt="Multimodal GraphRAG" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaafidAfraazG&repo=Multimodal-Knowledge-Graph-RAG-Agent&theme=tokyonight&hide_border=true&v=2" alt="Multimodal GraphRAG" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/RaafidAfraazG/PulseRender">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaafidAfraazG&repo=PulseRender&theme=tokyonight&hide_border=true" alt="PulseRender" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaafidAfraazG&repo=PulseRender&theme=tokyonight&hide_border=true&v=2" alt="PulseRender" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/RaafidAfraazG/AI-workflow-builder">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaafidAfraazG&repo=AI-workflow-builder&theme=tokyonight&hide_border=true" alt="AI Workflow Builder" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaafidAfraazG&repo=AI-workflow-builder&theme=tokyonight&hide_border=true&v=2" alt="AI Workflow Builder" />
       </a>
     </td>
   </tr>
